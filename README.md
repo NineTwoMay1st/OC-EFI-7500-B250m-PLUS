@@ -1,6 +1,6 @@
 # OC-EFI-7500-B250m-PLUS
 
-OpenCore版本: 0.6.1
+OpenCore版本: 0.6.2
 
 主要配置：  
   cpu:i5-7500  
